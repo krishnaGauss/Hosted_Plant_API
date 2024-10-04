@@ -2,6 +2,4 @@ fastapi
 uvicorn
 tensorflow
 opencv-python-headless
-pandas
 numpy
-seaborn
